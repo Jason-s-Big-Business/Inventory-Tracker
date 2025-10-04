@@ -1,0 +1,16 @@
+{
+  "name": "inventory-tracker",
+  "version": "1.0.0",
+  "description": "Real-time inventory management system with barcode scanning capabilities.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["inventory-tracker", "javascript", "node"],
+  "author": "Jason Causey",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
